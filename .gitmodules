@@ -1,0 +1,6 @@
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/Alamofire/Alamofire
+[submodule "Kanna"]
+	path = Kanna
+	url = https://github.com/tid-kijyun/Kanna
